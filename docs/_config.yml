@@ -23,7 +23,7 @@ description: >-
 url: "https://ihiteshsharma.github.io"
 
 # The base URL of your site (repo name for project pages)
-baseurl: "/ihiteshsharma"
+baseurl: ""
 
 github:
   username: ihiteshsharma
